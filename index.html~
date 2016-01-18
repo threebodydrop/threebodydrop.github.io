@@ -47,21 +47,21 @@
 			<div class="row aboutus-row">
 				<div class="col-md-4 aboutus-row-column">
 					
-					<h3>《三体I》</h3>
+					<h3>《地球往事》</h3>
 					<p>文化大革命时期，“红岸基地”是一个探索外星人是否存在的绝密基地，直属中共中央最高层领导。目睹了作为清华大学物理教授的父亲被红卫兵批斗而死，并受到牵连的天体物理学女大学生叶文洁因机缘巧合进入该绝密基地。在偶然发现了太阳的增益反射后，她私下利用该原理向宇宙中发出了包含地球信息的电波，信息被距地球最近的恒星系统上的居民——三体人收到，从此，三体世界和地球世界建立了联系。</p>
 					<br />
 					<p><a href="https://zh.wikipedia.org/wiki/%E4%B8%89%E4%BD%93_(%E5%B0%8F%E8%AF%B4)">维基</a> | <a href="http://baike.baidu.com/subview/449240/6674010.htm">百科</a></p>
 				</div>
 				<div class="col-md-4 aboutus-row-column">
 					
-					<h3>《三体II:黑暗森林》</h3>
+					<h3>《黑暗森林》</h3>
 					<p>在利用魔法般的科技锁死了地球人的科学之后，三体人庞大的宇宙舰队直扑太阳系，地球文明面对前所未有的危局。人类组建起同样庞大的太空舰队，同时行星防御理事会（PDC）利用三体人思维透明的致命缺陷制订了“面壁计划”，选出四位“面壁者”，为三体世界布置巨大的迷宫，掩盖地球真实的战略目的，三体人自身虽无法识破人类的诡谲计谋。却依靠由地球人中的背叛者挑选出的“破壁人”，与“面壁者”展开智慧博弈对决。 </p>
 					<br />
 					<p><a href="https://zh.wikipedia.org/wiki/%E4%B8%89%E4%BD%93II%EF%BC%9A%E9%BB%91%E6%9A%97%E6%A3%AE%E6%9E%97">维基</a> | <a href="http://baike.baidu.com/subview/449240/6674010.htm">百科</a></p>
 				</div>
 				<div class="col-md-4 aboutus-row-column">
 					
-					<h3>《三体III:死神永生》</h3>
+					<h3>《死神永生》</h3>
 					<p>继威慑纪元建立后的人类历史进行了续写，在社会文明进化的过程中，人类的大部分个体逐渐失去了危机感，对宇宙中的其他文明抱有不切实际的幻想，罗辑担任了半个多世纪的执剑人后，通过全民投票被“圣母”程心取代。三体人在与地球的交流中，学会了战略欺骗，在剑柄（即发射三体人位置的装置开关）移交后发动突然袭击，黑暗森林威慑失败，地球陷入危险,进一步揭示了宇宙黑暗森林状态的真正面目。 </p>
 					<br />
 					<p><a href="https://zh.wikipedia.org/wiki/%E4%B8%89%E4%BD%93III%EF%BC%9A%E6%AD%BB%E7%A5%9E%E6%B0%B8%E7%94%9F">维基</a> | <a href="http://baike.baidu.com/subview/449240/6674010.htm">百科</a></p>
@@ -74,7 +74,7 @@
 	<!-- Footer Starts Here ---->
 	<div class="footer">
 		<div class="container">
-			<p class="footer-head">This page was set up on <a href="https://github.com">Github</a></p>
+			<center><p class="footer-head">This page was set up on <a href="https://github.com">Github</a></p></center>
 			<div class="clearfix"></div>
 		</div>
 		<script type="text/javascript">
